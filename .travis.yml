@@ -1,0 +1,7 @@
+language: c++
+dist: trusty
+compiler:
+    - g++ 6.5.0
+os:
+    - linux
+sudo: required
