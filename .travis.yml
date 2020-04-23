@@ -1,7 +1,6 @@
-language: c++
-dist: trusty
+language: cpp
 compiler:
-    - g++ 6.5.0
-os:
-    - linux
-sudo: required
+    - gcc
+notifications:
+    email: false
+sudo: false
