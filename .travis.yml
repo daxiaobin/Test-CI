@@ -4,3 +4,4 @@ compiler:
 notifications:
     email: false
 sudo: false
+build: g++ main.cc
